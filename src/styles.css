@@ -1,0 +1,9 @@
+.form-inline label {
+  min-width: 150px !important;
+  justify-content: left !important;
+  -webkit-justify-content: left !important;
+}
+
+.form-inline .form-group input {
+  width: 180px !important;
+}
